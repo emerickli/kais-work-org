@@ -2,6 +2,8 @@
 
 Organizational shell only — **no personal essays, journal content, or private details** live here. You fill trackers; the agent helps with structure, deadlines, and reminders.
 
+**Slack is paused.** See [`STATUS.md`](STATUS.md). Work happens in **Cursor chat + this repo** until you revamp.
+
 ## Compartments
 
 | Area | Path | Purpose |

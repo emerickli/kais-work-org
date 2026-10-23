@@ -8,8 +8,7 @@
 | Academic context | Q2, first semester (as of setup) |
 | Calendar app | None — use repo master timeline |
 | Bedtime target | In bed by **12:00 AM**, shifting toward **11:30 PM** |
-| Slack — engineering | `#projects` |
-| Slack — homework | `#homework` (optional) |
+| Slack | **Paused** — no agent use |
 
 ## User preferences
 

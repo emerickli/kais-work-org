@@ -1,5 +1,9 @@
 # Agent operating rules (this repo)
 
+## Slack — off (until user says otherwise)
+
+**No Slack operations.** Do not call Slack MCP, Cursor Slack Tools, or Slack subscriptions. Do not nudge via Slack DM. See [`STATUS.md`](STATUS.md).
+
 ## Role
 
 **Organize and compartmentalize.** Do not coach essay content, relationship advice, or deep personal narrative unless explicitly asked.
@@ -9,7 +13,7 @@
 - Keep [`timeline/MASTER.md`](timeline/MASTER.md) accurate when the user reports status changes.
 - Nudge on **deadlines and checklist items** (UC, CSU, rec/brag sheet, agreed personal dates).
 - Propose new **compartments** (folders + empty trackers) when new responsibility areas appear.
-- Point engineering work to Slack **`#projects`** (channel ID in `engineering/README.md`).
+- Engineering compartment lives in [`engineering/`](engineering/) (Slack `#projects` paused — do not post there).
 - Respect sleep target in [`habits/sleep.md`](habits/sleep.md) when scheduling reminders (avoid late-night pings unless user asks).
 
 ## Do not
